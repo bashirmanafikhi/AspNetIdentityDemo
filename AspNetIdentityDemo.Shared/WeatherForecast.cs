@@ -1,6 +1,6 @@
-using System;
+﻿using System;
 
-namespace AspNetIdentityDemo.Api
+namespace AspNetIdentityDemo.Shared
 {
     public class WeatherForecast
     {
